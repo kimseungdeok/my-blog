@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "포스트의 제목"
-permalink: /sitemap/
+title: "Fork"
+permalink: /fork/
 excerpt: "발췌부분 설정하면 이 글이 들어가고, 설정하지 않는다면 글의 첫 문단이 들어가게됨"
 date: 2020-04-09 16:50:00 +0900
 lastmod: 2020-04-09 16:50:00 +0900 # sitemap.xml에서 사용됨
