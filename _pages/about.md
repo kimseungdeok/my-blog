@@ -7,7 +7,7 @@ date: 2020-04-09 16:50:00 +0900
 lastmod: 2020-04-09 16:50:00 +0900 # sitemap.xml에서 사용됨
 author_profile: false # 왼쪽부분 프로필을 띄울건지
 header:
-  overlay_image: https://www.google.co.kr/url?sa=i&url=https%3A%2F%2Fwww.uopeople.edu%2Fblog%2F5-reasons-why-youll-fall-in-love-with-computer-engineering-jobs%2F&psig=AOvVaw1k3uhkjvADVpjRCCX9n8F6&ust=1618574537470000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOCYn5magPACFQAAAAAdAAAAABAK
+  overlay_image: /assets/images/computer_ engineering_image.jpg
   overlay_filter: 0.5 # 투명도
 categories: 
   - about
