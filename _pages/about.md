@@ -3,8 +3,8 @@ layout: single
 title: "About"
 permalink: /about/
 excerpt: "Just Do It"
-date: 2021-04-14 16:50:00 +0900
-lastmod: 2021-04-14 16:50:00 +0900 # sitemap.xml에서 사용됨
+##date: 2021-04-14 16:50:00 +0900
+#lastmod: 2021-04-14 16:50:00 +0900 # sitemap.xml에서 사용됨
 author_profile: false # 왼쪽부분 프로필을 띄울건지
 header:
   overlay_image: /assets/images/computer_engineering_image.jpg
